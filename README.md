@@ -1,10 +1,8 @@
-## Hi there 👋
+## Hi there 👋, my name is Juan Anthony Mendez and I am a software engineer!
 
-<!--
-**juanmendez24/juanmendez24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full stack developer, with an engineer tech background in mulitple types of warehouse manufracturing, and a Colorado Fishing trip guide!
 
-Here are some ideas to get you started:
-
+I enrolled in an online bootcamp in 2024 with Tripleten to get into the world of coding that kept grabbing my interest everytime that I opened dev tools on my personal computers. During my time with Tripleten Bootcamp I was able to get involved with helping out other classmates with any courses/sprints assignments and projects.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
